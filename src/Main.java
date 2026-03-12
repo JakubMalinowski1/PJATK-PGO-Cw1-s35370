@@ -55,6 +55,6 @@ public class Main {
             }
         }
         sc.close();
-        System.out.println("Koniec programu druga gałąź.");
+        System.out.println("Koniec programu.");
     }
 }
