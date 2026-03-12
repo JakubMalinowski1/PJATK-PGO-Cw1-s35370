@@ -1,3 +1,3 @@
 to repozytorium jest do cwiczeń
-.DS_Store
-druga gałąź
+Utworzyłem nową gałąź i zmergowałem do maina
+Stworzyłem następną gałąź
